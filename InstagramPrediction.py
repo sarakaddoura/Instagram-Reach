@@ -317,15 +317,18 @@ if add_selectbox1 == "Analyzing Relationships":
     
 ▪️ The correlation of Impressions is 1. The closer to 1, the more correlated
 they are to impressions.
+
 ▪️ The following Columns have the highest correlation with impressions:
     👥 Follows with 0.88 correlation
     👍 Likes with 0.84 correlation
     📥 Saves with 0.77 correlation
+    
 ▪️ As we can see, the more followers, likes and saves the higher
 the reach on Instagram as they are strongly correlated to Impressions.
+
 ▪️ It is also reflected in the above scatter plots.
 
-""")
+            """)
 
     #Relationship Between Follows and Impressions (Fifth Figure)
 
