@@ -175,10 +175,14 @@ if add_selectbox1 == "Analyzing Reach of Instagram Posts":
 
     expander = st.expander("Analysis")
     expander.write("""
+    
 ▪️ The majority of posts from home section have around 2k impressions scored. However, its clear by looking at the impressions from home, that its hard to reach all the followers daily, there are outliers.
+
 ▪️ As for impressions scored from hashtags, the mojority of posts have around 2k-5k impressions.
+
 ▪️ Finally for the explore section, its considered as the recommendation system of Instagram. It recommends posts to the users based on their preferences and interests just as netflix does with movies. We can observe that the majority of posts have little number of impressions in comparison to the other sources.
- """)
+ 
+        """)
 
 
 
